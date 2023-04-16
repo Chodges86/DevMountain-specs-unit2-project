@@ -1,0 +1,6 @@
+.watchlist {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 2500px;
+}

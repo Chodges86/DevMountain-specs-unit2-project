@@ -1,0 +1,29 @@
+.movie-card {
+    height: 250px;
+    width: auto;
+}
+
+.movie-card img {
+    height: 140px;
+}
+
+.movie-card h3 {
+    font-family: 'Merriweather', serif;
+}
+
+.movie-card img {
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgb(70, 70, 70);
+}
+
+.movie-card button {
+    border-radius: 3px;
+    border: none;
+    box-shadow: 3px 3px 3px rgb(70, 70, 70);
+    background-color: #317031;
+    color: white;
+    font-family: 'Limelight', cursive;
+    font-size: large;
+
+
+}
